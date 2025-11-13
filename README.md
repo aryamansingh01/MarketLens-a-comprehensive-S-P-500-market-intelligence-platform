@@ -105,6 +105,7 @@ MarketLens/
 - Sector Performance visualizations comparing volatility and returns
 - Risk Analysis with return vs volatility profiles
 - Macroeconomic indicators with inflation, yield, VIX trends
+- Dashboard link : https://app.powerbi.com/groups/me/reports/4148eebb-5e92-428c-94c7-439e1128e23d/1f9472082e9c142a7914?experience=power-bi
 
 ***
 
